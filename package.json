@@ -1,0 +1,22 @@
+{
+  "name": "terminalmonitor",
+  "version": "1.0.0",
+  "description": "Monitor Terminals Right from the Web Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jscrews/TerminalMonitor.git"
+  },
+  "keywords": [
+    "4690OS"
+  ],
+  "author": "Jaret Screws",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jscrews/TerminalMonitor/issues"
+  },
+  "homepage": "https://github.com/jscrews/TerminalMonitor#readme"
+}

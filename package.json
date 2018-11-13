@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/jscrews/TerminalMonitor/issues"
   },
-  "homepage": "https://github.com/jscrews/TerminalMonitor#readme"
+  "homepage": "https://github.com/jscrews/TerminalMonitor#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "react": "^16.6.3"
+  }
 }
